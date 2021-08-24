@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Clínica IMET](https://www.clinicaimet.cl)
 
-- 🌱 I’m currently learning **Vue, c# and SQL**
+- 🌱 I’m currently learning **Vue, C# and SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
