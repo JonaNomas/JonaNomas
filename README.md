@@ -43,14 +43,14 @@
 
 <p align="start">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaNomas&count_private=true&layout=compact&theme=graywhite"
+    <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaNomas&count_private=true&show_icons=true&layout=compact&theme=tokyonight"
     />
   </a>
 </p>
 <p align="start">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" width="59%"
-      src="https://github-readme-stats.vercel.app/api?username=jonaNomas&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=graywhite"
+      src="https://github-readme-stats.vercel.app/api?username=jonaNomas&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=tokyonight"
     />
   </a>
 </p>
